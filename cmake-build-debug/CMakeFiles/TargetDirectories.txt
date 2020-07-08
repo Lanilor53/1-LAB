@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Desktop/C++/RPM-labs/1-LAB/cmake-build-debug/CMakeFiles/1-LAB.dir
+C:/Users/Lenovo/Desktop/C++/RPM-labs/1-LAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/C++/RPM-labs/1-LAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
